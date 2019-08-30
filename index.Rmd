@@ -6,7 +6,7 @@ output: html_document
 M. en E. Luis Enrique Mendoza Ruiz
 
 ### Correo institucional:
-luis_mendozaru@my.uvm.edu.mx
+lemendoza@upgop.edu.mx
 
 ### Página en GitHub:
 https://github.com/LuisEMendoza
