@@ -3,6 +3,7 @@ title: "Expresiones algebraicas"
 ---
 ## Un análisis histórico
 Los números naturales tienen su origen en una necesidad tan antigua como las primeras civilizaciones, la de contar.
+
 - El hombre primitivo y su percepción.
 - __Siglo V a.d.e.__. La caida del _arithmos_.
 - __Siglo VI a.d.e.__. Pitagóricos y números racionales.
