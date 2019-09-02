@@ -1,5 +1,5 @@
 ---
-title: "Apuntes"
+title: "Contacto"
 output: html_document
 ---
 ### Docente:
@@ -10,5 +10,3 @@ lemendoza@upgop.edu.mx
 
 ### Página en GitHub:
 https://github.com/LuisEMendoza
-
-Esta página está aún en construcción.

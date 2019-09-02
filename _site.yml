@@ -10,19 +10,23 @@
       href: GitHub-en-RStudio.html
     - text: "Asignaturas" 
       menu:
+        - text: "Herramientas Ofimáticas"
+        - text: "Encuadre"
+          href: heo-e.html
+        - text: "Unidad 1"
+          href: Interfaz.html
+        - text: "Unidad 2"
+          href: Ofimática.html
+        - text: "Introducción a las Matemáticas"
+        - text: "Encuadre"
+          href: iam-e.html
+        - text: "Unidad 1"
+          href: Expresiones_Algebraicas.html
         - text: "Probabilidad y Estadística"
         - text: "Unidad 1"
           href: Descriptiva.html
         - text: "Unidad 2"
           href: Probabilidad.html
-        - text: "Optimización I"
-        - text: "Unidad 1"
-          href: IntroPL.html
-        - text: "Unidad 2"
-          href: Modelos.html
-        - text: "Optimización II"
-        - text: "Unidad 1"
-          href: CPM.html
   output:
     html_document:
         theme: cosmo
